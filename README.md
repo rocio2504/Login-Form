@@ -4,3 +4,4 @@
 ###### HTML CSS JS
 **Este texto está en negrita**
 *Este texto está en cursiva*
+![Esta es una imagen](https://myoctocat.com/assets/images/base-octocat.svg)
